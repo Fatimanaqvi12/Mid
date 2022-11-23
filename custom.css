@@ -1,0 +1,174 @@
+.logo{
+    
+    padding-left: 1%;
+    margin-top: 2%;
+}
+ .navbar
+{
+    display: flex;
+
+    padding-left: 10%;
+}
+
+.navbar ul {
+    width: 60%;
+    text-decoration: none;
+    list-style: none;
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+ } 
+
+ .div1
+ {
+
+    float: left;
+    width:100%;
+    background-color: whitesmoke;
+ }
+ .search-container {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+ }
+ 
+ .search-box {
+    width: 70%;
+    height: 40%;
+    margin-left: 30%;
+   
+ }
+ 
+ 
+ .icons {
+    width: 40%;
+    display: flex; 
+    justify-content: space-evenly;
+ 
+ }
+
+ .top
+ {
+padding-left: 15%;
+
+ }
+
+ .top2
+ {
+    margin-top: 2%;
+    padding-right: 4%;
+     border: solid;
+     padding-left: 3%;
+    background-color: whitesmoke;
+     margin-left: 7%;
+    
+ }
+ .top3
+ {
+    margin-top: 2%;
+    padding-right: 4%;
+    margin-top: 10;
+    margin-top: 10;
+     border: solid;
+    background-color:white;
+   
+ }
+
+ .mid
+ {
+   margin-top: 10;
+    display: flex;
+ }
+ .image1
+ {
+    display:block;
+    margin-top:5%;
+    /* padding-top:6%; */
+  
+ }
+
+ .box{
+   
+   
+    border: solid;
+    padding-left: 3%;
+   background-color: white;
+    margin-left: 7%;
+    padding-right: 4%;
+
+ }
+
+ h4
+ {
+    color: red;
+    background-color: whitesmoke;
+    padding-left: 8%;
+    padding-top: 4%;
+ }
+
+.bigbox
+{
+    display:flex;
+}
+.box1{
+   
+   padding-right: 5%;
+    border: solid;
+    padding-left: 3%;
+   background-color: white;
+   
+
+ }
+
+
+ .im{
+padding-top: 14%;
+ }
+
+ .add
+ {
+    margin-top: 2%;
+    padding-right: 4%;
+     border: solid;
+     padding-left: 3%;
+    background-color: white;
+     margin-left: 5%;
+     margin-bottom: 1%;
+ }
+
+ .footer3
+{
+   color:grey;
+  padding-right: 16%;
+  column-count: 4;
+   padding-left: 16%;
+   padding-top: 6%;
+   padding-bottom: 5%;
+   background-color: black;
+   padding-top: 3%;
+   
+   }
+
+
+.footer4
+{
+   background-color:rgb(58, 57, 57);
+padding-left: 30%;
+padding-top: 3%;
+  padding-bottom: 5%;
+   color: rgb(207, 195, 195);
+}
+
+.last
+{
+
+    display: inline;
+    padding-top: 2%;
+    margin-top: 2%;
+}
+
+.background-color
+{
+    color: whitesmoke;
+}
